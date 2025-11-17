@@ -5,10 +5,10 @@
 
 ######## CONFIG ########################################################################################
 # Change this path to match your melon loader installation (we're using their bundled Mono.Cecil.dll)
-cecilPath="/home/shiro/.local/share/Steam/steamapps/common/ChilloutVR/MelonLoader/net35/Mono.Cecil.dll"
+cecilPath="$HOME/.local/share/Steam/steamapps/common/ChilloutVR/MelonLoader/net35/Mono.Cecil.dll"
 # Change this path to a folder where your mods are located, it will then output the fixed mods into a
 # folder named ~RenamedCompanyMods, inside of the picked folder
-sourceDir="/home/shiro/.local/share/Steam/steamapps/common/ChilloutVR/Mods/"
+sourceDir="$HOME/.local/share/Steam/steamapps/common/ChilloutVR/Mods/"
 ######## CONFIG ########################################################################################
 
 # Check if mono is installed
